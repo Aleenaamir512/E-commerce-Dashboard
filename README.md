@@ -35,7 +35,7 @@ It highlights how the same dataset can be analyzed using both no-code and code-f
 
 📷 *Example screenshot:*
 
-![Power BI Dashboard](ecommerce-powerbi/E-commerce Powerbi ss.png)
+![Power BI Dashboard](ecommerce-powerbi/E-commerce%20Powerbi%20ss.png)
 
 ---
 
